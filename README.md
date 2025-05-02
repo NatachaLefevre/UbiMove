@@ -2,7 +2,7 @@
 Service numérique pour un concours interne des services Ressources Humaines d'Ubisoft.
 
 ## Fonctionnement
-Le projet UbiMove propose de faciliter les processus de recrutement au sein d'UbiSoft, notamment en synchronisant la plateforme SmartRecruiters avec la base de données des recruteurs, en centralisant les informations des candidats, en élargissant le recrutement à l'international.
+Le projet UbiMove propose de faciliter les processus de recrutement au sein d'Ubisoft, notamment en synchronisant la plateforme SmartRecruiters avec la base de données des recruteurs, en centralisant les informations des candidats, en élargissant le recrutement à l'international.
 
 J'ai réalisé les interfaces du service, ainsi que les illustrations.
 
